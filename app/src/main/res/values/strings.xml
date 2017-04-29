@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="action_settings">Delete all logins</string>
+    <string name="site_name_input">Site Name</string>
+    <string name="password_input">Password</string>
+    <string name="notes_input">Notes</string>
+    <string name="username_input">Username/Email</string>
+    <string name="btn_save">Save</string>
+    <string name="new_login_form">New login</string>
+    <string name="view_login_details">View login</string>
+    <string name="btnPassGenDescription">Generate Random Password</string>
+    <string name="list_placeholder_sitename">Site name</string>
+    <string name="list_placeholder_username">Username/email</string>
+    <string name="dialog_delete_logins">Delete all logins?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="update_login">Update Login</string>
+    <string name="copy_password">Copy Password</string>
+    <string name="delete_login">Delete this login</string>
+
+</resources>
